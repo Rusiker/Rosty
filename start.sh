@@ -2,7 +2,7 @@
 
 # configs
 AUUID=731f4f20-79de-4599-a1e8-39ac02728700
-CADDYIndexPage=https://github.com/AYJCSGM/mikutap/archive/master.zip
+CADDYIndexPage=https://github.com/happyevero/Html/raw/main/CAFESTORE-html.zip
 CONFIGCADDY=https://raw.githubusercontent.com/Rusiker/Rosty/master/etc/Caddyfile
 CONFIGXRAY=https://raw.githubusercontent.com/Rusiker/Rosty/master/etc/xray.json
 ParameterSSENCYPT=chacha20-ietf-poly1305
